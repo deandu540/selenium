@@ -35,3 +35,11 @@ project(":test2") {
         compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.8.1'
     }
 }
+
+project(":test3") {
+
+    dependencies {
+        compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.8.1'
+    }
+}
+
