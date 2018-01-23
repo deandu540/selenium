@@ -1,9 +1,13 @@
-Practice Steps:
+# Practice Steps:
 
-test1:
+### test1:
 * Create idea project by gradle
 * Write 'hello idea' java
 
-test2:
+### test2:
 * Use selenium webdriver
-* Adding words to html textbox and click button
+* 進行 google search
+
+### test3:
+* sample: 選取在 github 另一個 branch readme 檔案
+* 保留一些常用的 api 
