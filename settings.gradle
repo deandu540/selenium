@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 rootProject.name = 'selenium'
-include ':test1'
+include ':test1', ':test2'
