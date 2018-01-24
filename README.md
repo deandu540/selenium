@@ -1,5 +1,8 @@
 # Practice Steps:
 
+> Selenium
+> http://www.seleniumhq.org/
+
 ### test1:
 * Create idea project by gradle
 * Write 'hello idea' java
@@ -10,4 +13,4 @@
 
 ### test3:
 * sample: 選取在 github 另一個 branch readme 檔案
-* 保留一些常用的 api 
+* 保留一些常用的 api
