@@ -99,5 +99,13 @@ public class CommonUsage {
     }
 
 
+    /*
+     * 回到上一層表單
+     */
+    public void getDefaultContent() {
+        ChromeDriver driver = new ChromeDriver();
+        driver.switchTo().defaultContent();
+    }
+
 
 }

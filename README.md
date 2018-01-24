@@ -9,7 +9,7 @@
 
 ### test2:
 * Use selenium webdriver
-* 進行 google search
+* sample: 用 google 查詢 hello world!!
 
 ### test3:
 * sample: 選取在 github 另一個 branch readme 檔案
