@@ -1,4 +1,4 @@
-# Practice Steps:
+# Practice Steps Target:
 
 > Selenium
 > http://www.seleniumhq.org/

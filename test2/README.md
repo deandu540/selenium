@@ -2,7 +2,7 @@
 # Sample: 用 google 查詢 hello world!!
 > SearchGoogle.java
 
-## PreInstall
+## Prepare
 
 * 在使用 Selenium 前, 必須要先確認作業系統上面所使用的 Chrome 版本, 確認完之後要下載相對應的 chromedriver 版本
 * 版本確認: https://chromedriver.storage.googleapis.com/2.35/notes.txt
@@ -15,6 +15,7 @@
 
 ## 2. 設定 chromedriver 的程式檔位置
 
-* 使用 System.setProperty 設定 path
+* 在程式中使用 System.setProperty 設定 path
 
-## 3. 在 google 首頁輸入 hello world! 進行查詢
+## 3. Sample: 在 google 首頁輸入 hello world! 進行查詢
+> SearchGoogle.java
